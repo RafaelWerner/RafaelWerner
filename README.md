@@ -1,5 +1,5 @@
-# :man_technologist: Rafael Werner
+# :man_technologist: RafaelWerner
 
 Hello! 👋 Welcome to my profile
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWerner&layout=compact)](https://github.com/RafaelWerner/RafaelWerner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelWerner&repo=github-readme-stats)](https://github.com/RafaelWerner/github-readme-stats)
